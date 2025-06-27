@@ -120,7 +120,7 @@ ope3=kil3*2500
 
 sum=ope+ope2+ope3
 
-print(f"el total a pagar es: {sum}")
+print(f"el total a pagar es: {sum}")#frutas
 
 
 
