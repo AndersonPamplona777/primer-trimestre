@@ -421,19 +421,19 @@ auto.pop("marca")
 
 #-----ejercicio20---
 
-precios = [1000, 2500, 1500, 3000, 2000]
+# precios = [1000, 2500, 1500, 3000, 2000]
 
-print(f"Lista original: {precios}")
+# print(f"Lista original: {precios}")
 
-precio_eliminar = int(input("Ingresa el precio que deseas eliminar: "))
-precios.remove(precio_eliminar)
+# precio_eliminar = int(input("Ingresa el precio que deseas eliminar: "))
+# precios.remove(precio_eliminar)
 
-precio_agregar = int(input("Ingresa el nuevo precio que deseas agregar: "))
-precios.append(precio_agregar)
+# precio_agregar = int(input("Ingresa el nuevo precio que deseas agregar: "))
+# precios.append(precio_agregar)
 
-precios.sort()
+# precios.sort()
 
-print(f"Lista actualizada y ordenada: {precios}")
+# print(f"Lista actualizada y ordenada: {precios}")
 
 
 

@@ -30,8 +30,10 @@
 # print(animal)
 
 #--------------ejercicio8------
-# presentacion=input("ingrese su nombre y su ciudad: ")
-# print(f"su nombre es{nombre}, su cudad es{ciudad}")
+# presentacion=input("ingrese su nombre: ")
+# presentacion2=input("ingrese su ciudad: ")
+
+# print(f"su nombre es{presentacion}, su cudad es{presentacion2}")
 
 #-------------ejercicio9--------
 # nombre=input("ingrese su nombre: ")
