@@ -300,5 +300,5 @@
 # elif puntaje <= 79:
 #     print("pasaste por lo basico")
 # else:
-#     print("Te fue muy bien")
+#     print("Te fue muy bien") -
 
