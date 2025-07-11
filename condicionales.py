@@ -93,14 +93,14 @@
 
 # 10 Dado un numero verifica si es divisible entre dos numeros dados  
 
-numero = int(input("Ingresa el número: "))
-d1 = int(input("Ingresa el primer divisor: "))
-d2 = int(input("Ingresa el segundo divisor: "))
+# numero = int(input("Ingresa el número: "))
+# d1 = int(input("Ingresa el primer divisor: "))
+# d2 = int(input("Ingresa el segundo divisor: "))
 
-if numero % d1 == 0 and numero % d2 == 0:
-    print("Es divisible entre los dos números")
-else:
-    print("No es divisible entre los dos números")
+# if numero % d1 == 0 and numero % d2 == 0:
+#     print("Es divisible entre los dos números")
+# else:
+#     print("No es divisible entre los dos números")
 
 
 
