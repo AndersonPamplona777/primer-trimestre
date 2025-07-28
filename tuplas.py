@@ -12,13 +12,13 @@
 
 #-----------ejericio 1-------
 
-# tupla=("manzana","pera")
-# print(tupla)
-# lista=list(tupla)
-# f2=input("ingrese una fruta: ")
-# lista.append(f2)
-# tupla=tuple(lista)
-# print(f"tu lista quedaria asi {lista}, y la tupla final es {tupla}")
+tupla=("manzana","pera")
+print(tupla)
+lista=list(tupla)
+f2=input("ingrese una fruta: ")
+lista.append(f2)
+tupla=tuple(lista)
+print(f"tu lista quedaria asi {lista}, y la tupla final es {tupla}")
 
 #-------ejercicio2---
 
@@ -38,25 +38,25 @@
 # n3=int(input("ingrese su numero de documento: "))
 # lista.append(n3)
 # tupla=tuple(lista)
-# print(f" tu tupla final es {tupla}")
+# # print(f" tu tupla final es {tupla}")
 
-#---------ejercicios practicos-------
-#---1
-tupla=(1,2,3,4,5)
-#2
-print(tupla[1])
-#---3
-longitud=len(tupla)
-print(longitud)
-#--4
-print(tupla.index(4))
-#--5
-print(tupla.count(2))
-#--6
-tupla2=("hola mundo",16,0.77)
-#--7
-tupla3=(1,2,3, tupla2)
-print(tupla3[3],[0])
+# #---------ejercicios practicos-------
+# #---1
+# tupla=(1,2,3,4,5)
+# #2
+# print(tupla[1])
+# #---3
+# longitud=len(tupla)
+# print(longitud)
+# #--4
+# print(tupla.index(4))
+# #--5
+# print(tupla.count(2))
+# #--6
+# tupla2=("hola mundo",16,0.77)
+# #--7
+# tupla3=(1,2,3, tupla2)
+# print(tupla3[3],[0])
 
 #-----------------------------
 
