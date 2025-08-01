@@ -165,28 +165,89 @@
 #     col[1] = "amarillo"
 # print(colores)
 
+
 #--------ejeercicio16--
 
-
+# tupla = (5, 8, 12, 20)
+# if tupla[0] < tupla[-1]:
+#     print("Orden ascendente")
+# else:
+#     print("Orden descendente")
 
 #------ejericio17----
 
+# tupla = (25, 32, 28)
+# if tupla[1] > 30:
+#     print("Edad mayor a 30")
+# else:
+#     print("Edad menor o igual a 30")
 
+# #--------ejercicio18---
 
+# tupla = (1, 2, 3)
+# lista = list(tupla)
+# if lista[1] == 2:
+#     lista[1] = 10
+# tupla=tuple(lista)
+# print(tupla)
 
-#--------ejercicio18---
+# #---------ejercicio19------
 
+# tupla = (4, 9)
+# if tupla[1] > 5:
+#     print("Coordenada alta")
+# else:
+#     print("Coordenada baja")
 
+# #------ejercicio20--------
 
+# tupla1 = (3, 4)
+# tupla2 = (3, 5)
+# if tupla1 == tupla2:
+#     print("Tuplas iguales")
+# else:
+#     print("Tuplas diferentes")
 
+# #------ejercicio21---
 
-#---------ejercicio19------
+# persona = {"nombre": "Juan", "edad": 17}
+# if persona["edad"] >= 18:
+#     print("Adulto")
+# else:
+#     print("Menor de edad")
 
+# #------ejericicio22----
 
+# persona = {"nombre": "Lucia", "edad": 20}
+# if persona["edad"] > 18:
+#     persona["edad"] = 21
+# print(persona)
 
+# #----ejercicio23----
 
+# persona = {"nombre": "Carlos"}
 
+# if "ciudad" in persona:
+#     print("La clave 'ciudad' ya existe")
+# else:
+#     persona["ciudad"] = "Bogotá"
 
-#------ejercicio20--------
+# print(persona)
+
+# #-----ejercicio24----
+
+# producto = {"producto": "pan", "precio": 1200}
+# if "precio" in producto:
+#     print(producto["precio"])
+# else:
+#     print("No hay precio")
+
+# #------ejercicio25----
+
+# productos = {"pan": 1200, "leche": 2000}
+# if "pan" in productos:
+#     print(productos["pan"])
+# else:
+#     print("Producto no disponible")
 
 
